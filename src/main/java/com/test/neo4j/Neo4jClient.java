@@ -27,7 +27,7 @@ public class Neo4jClient {
             //System.out.println(record.);
 
         }
-
+         System.out.println("dddd");
         session.close();
         driver.close();
     }
