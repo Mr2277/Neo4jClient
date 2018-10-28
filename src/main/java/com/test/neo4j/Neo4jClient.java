@@ -28,6 +28,8 @@ public class Neo4jClient {
 
         }
 
+
+        
         session.close();
         driver.close();
     }
