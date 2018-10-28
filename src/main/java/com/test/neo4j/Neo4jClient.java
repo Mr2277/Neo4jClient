@@ -28,8 +28,8 @@ public class Neo4jClient {
 
         }
 
+       System.out.println("fuck");
 
-        
         session.close();
         driver.close();
     }
