@@ -34,5 +34,6 @@ public class Neo4jClient {
         session.close();
         driver.close();
         System.out.println("master xiugai");
+        System.out.println("sunhao2");
     }
 }
